@@ -9,3 +9,5 @@
 20-4 Sum of all numbers in an array
 
 20-5 Find the largest element of an array
+
+20-6 Create a Fibonacci Series using a for loop
